@@ -1,0 +1,14 @@
+C:\AulaEstruturaDeDados\FilaDeStrings\bin\Debug\net7.0\FilaDeStrings.exe
+C:\AulaEstruturaDeDados\FilaDeStrings\bin\Debug\net7.0\FilaDeStrings.deps.json
+C:\AulaEstruturaDeDados\FilaDeStrings\bin\Debug\net7.0\FilaDeStrings.runtimeconfig.json
+C:\AulaEstruturaDeDados\FilaDeStrings\bin\Debug\net7.0\FilaDeStrings.dll
+C:\AulaEstruturaDeDados\FilaDeStrings\bin\Debug\net7.0\FilaDeStrings.pdb
+C:\AulaEstruturaDeDados\FilaDeStrings\obj\Debug\net7.0\FilaDeStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaEstruturaDeDados\FilaDeStrings\obj\Debug\net7.0\FilaDeStrings.AssemblyInfoInputs.cache
+C:\AulaEstruturaDeDados\FilaDeStrings\obj\Debug\net7.0\FilaDeStrings.AssemblyInfo.cs
+C:\AulaEstruturaDeDados\FilaDeStrings\obj\Debug\net7.0\FilaDeStrings.csproj.CoreCompileInputs.cache
+C:\AulaEstruturaDeDados\FilaDeStrings\obj\Debug\net7.0\FilaDeStrings.dll
+C:\AulaEstruturaDeDados\FilaDeStrings\obj\Debug\net7.0\refint\FilaDeStrings.dll
+C:\AulaEstruturaDeDados\FilaDeStrings\obj\Debug\net7.0\FilaDeStrings.pdb
+C:\AulaEstruturaDeDados\FilaDeStrings\obj\Debug\net7.0\FilaDeStrings.genruntimeconfig.cache
+C:\AulaEstruturaDeDados\FilaDeStrings\obj\Debug\net7.0\ref\FilaDeStrings.dll
