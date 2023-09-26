@@ -1,0 +1,14 @@
+C:\AulaEstruturaDeDados\AtividadePilhaStrings\bin\Debug\net7.0\AtividadePilhaStrings.exe
+C:\AulaEstruturaDeDados\AtividadePilhaStrings\bin\Debug\net7.0\AtividadePilhaStrings.deps.json
+C:\AulaEstruturaDeDados\AtividadePilhaStrings\bin\Debug\net7.0\AtividadePilhaStrings.runtimeconfig.json
+C:\AulaEstruturaDeDados\AtividadePilhaStrings\bin\Debug\net7.0\AtividadePilhaStrings.dll
+C:\AulaEstruturaDeDados\AtividadePilhaStrings\bin\Debug\net7.0\AtividadePilhaStrings.pdb
+C:\AulaEstruturaDeDados\AtividadePilhaStrings\obj\Debug\net7.0\AtividadePilhaStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaEstruturaDeDados\AtividadePilhaStrings\obj\Debug\net7.0\AtividadePilhaStrings.AssemblyInfoInputs.cache
+C:\AulaEstruturaDeDados\AtividadePilhaStrings\obj\Debug\net7.0\AtividadePilhaStrings.AssemblyInfo.cs
+C:\AulaEstruturaDeDados\AtividadePilhaStrings\obj\Debug\net7.0\AtividadePilhaStrings.csproj.CoreCompileInputs.cache
+C:\AulaEstruturaDeDados\AtividadePilhaStrings\obj\Debug\net7.0\AtividadePilhaStrings.dll
+C:\AulaEstruturaDeDados\AtividadePilhaStrings\obj\Debug\net7.0\refint\AtividadePilhaStrings.dll
+C:\AulaEstruturaDeDados\AtividadePilhaStrings\obj\Debug\net7.0\AtividadePilhaStrings.pdb
+C:\AulaEstruturaDeDados\AtividadePilhaStrings\obj\Debug\net7.0\AtividadePilhaStrings.genruntimeconfig.cache
+C:\AulaEstruturaDeDados\AtividadePilhaStrings\obj\Debug\net7.0\ref\AtividadePilhaStrings.dll
